@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/Hacking4HPC/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>/Hacking4HPC/port-monitoring/</loc>
+    <loc>/port-monitoring/</loc>
     <lastmod>2023-06-28T17:02:05-05:00</lastmod>
   </url><url>
-    <loc>/Hacking4HPC/</loc>
+    <loc>/</loc>
     <lastmod>2023-06-28T17:02:05-05:00</lastmod>
   </url><url>
-    <loc>/Hacking4HPC/roadway-monitoring/</loc>
+    <loc>/roadway-monitoring/</loc>
     <lastmod>2023-06-28T17:02:05-05:00</lastmod>
   </url><url>
-    <loc>/Hacking4HPC/search/</loc>
+    <loc>/search/</loc>
     <lastmod>2023-06-28T17:02:05-05:00</lastmod>
   </url><url>
-    <loc>/Hacking4HPC/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

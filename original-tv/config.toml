@@ -1,5 +1,5 @@
-baseURL = "/Hacking4HPC/"
-#baseURL = "/"
+#baseURL = "/Hacking4HPC/"
+baseURL = "/"
 title = ""
 
 #theme = ["hugo-social-metadata", "docsy"]
